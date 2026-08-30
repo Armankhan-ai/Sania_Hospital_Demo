@@ -1,0 +1,11 @@
+--- 
+
++++ 
+
+@@ -2 +2,4 @@
+
+-.*
++<html lang="en-US">
++</html>
++<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1787968509 -->
++given datils ka use kro but website design me change nhi hona chahiye isme se only datils ka use kre
